@@ -1,6 +1,6 @@
 # XV2AutoShader
 Automated Dragon Ball Xenoverse 2 shader setup for Blender 4.0+
-Applies Starr's Xenoverse 2 camera-based shaders and handles texture assignment automatically. No template files needed.
+Applies a heavily modified version of Starr's Xenoverse 2 camera-based shaders and handles texture assignment automatically. No template files needed.
 Features
 Automatic Shader Setup
 
