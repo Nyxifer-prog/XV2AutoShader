@@ -66,3 +66,36 @@ EMM/
 Credits
 
 Shader: Starr
+
+Quick Tutorial
+First Time Setup
+
+Install addon in Blender 4.0+
+Press N to open sidebar → go to XV2 tab
+Set EMM Folder to your extracted EMM XML files
+Set Texture Folder to your DDS/PNG texture root folder
+
+Basic Workflow
+
+Import your XV2 model (FBX, DAE, etc.)
+Click "Apply/Update Shaders" - that's it!
+
+All materials get XV2 shaders
+Textures are found and assigned automatically
+MSK/XVM/Eye shaders are detected from EMM files
+
+
+
+Advanced Features
+Switch Costume Variants:
+
+Select character → DYT Transformation panel → click DATA_001, DATA_002, etc.
+
+Copy Shaders Between meshes:
+
+Select source character → "Copy DYT"
+Select target characters → "Paste DYT"
+
+Fix Black Materials (Some SCDs):
+
+Select affected objects → "Disconnect EMB Alpha"
