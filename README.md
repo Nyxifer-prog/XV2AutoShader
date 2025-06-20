@@ -35,10 +35,10 @@ Applies a heavily modified version of Starr's Xenoverse 2 camera-based shaders a
 1. Install addon in Blender 4.0+
 2. Press `N` to open sidebar → go to **XV2** tab
 3. Set **EMM Folder** to your extracted EMM XML files
-4. Set **Texture Folder** to your DDS/PNG texture root folder
+4. Set **Texture Folder** to your DDS texture root folder
 
 ### Basic Workflow
-1. **Import your XV2 model** (FBX, DAE, etc.)
+1. **Import your XV2 model** (FBX)
 2. **Click "Apply/Update Shaders"** - that's it!
    - All materials get XV2 shaders
    - Textures are found and assigned automatically
