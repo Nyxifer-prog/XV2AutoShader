@@ -2,7 +2,7 @@
 
 **Automated Dragon Ball Xenoverse 2 shader setup for Blender 4.0+**
 
-Applies a heavily modified version of Starr's Xenoverse 2 camera-based shaders and handles texture assignment automatically. No template files needed.
+Applies a heavily modified version of TempestStarr's Xenoverse 2 camera-based shaders and handles texture assignment automatically. No template files needed.
 
 ## Features
 
@@ -70,6 +70,6 @@ EMM/
 ```
 
 ## Credits
-- **Shader**: Starr
+- **Shader**: TempestStarr - https://linktr.ee/TempestStarr
 - **Addon**: Imxiater
- Ko-fi in case I post an update here: https://ko-fi.com/imxiater
+-Ko-fi in case I post an update here: https://ko-fi.com/imxiater
