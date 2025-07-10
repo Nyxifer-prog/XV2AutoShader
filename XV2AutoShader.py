@@ -2533,7 +2533,7 @@ class XV2_PT_Main(Panel):
         box_notes = layout.box();
         col_notes = box_notes.column(align=True);
         col_notes.label(text="Info & Credits:", icon='INFO');
-        col_notes.label(text="- Shader by Starr, Imxiater.");  # Updated
+        col_notes.label(text="- Shader by TempestStarr, Imxiater.");  # Updated
         col_notes.label(text="- Addon automation by Imxiater.")
 
 
